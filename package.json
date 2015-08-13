@@ -4,7 +4,7 @@
   "main": "./lib/index",
   "description": "A packery mixin for React.js",
   "dependencies": {
-    "packery": "eiriklv/packery",
+    "packery": "1.4.2",
     "imagesloaded": "eiriklv/imagesloaded"
   },
   "devDependencies": {},
